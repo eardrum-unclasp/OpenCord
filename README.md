@@ -78,3 +78,4 @@ Fosscord version of the app redirects to Fosscord API, CDN and Gateway instead o
 
 ### Stable version wen?
 Soon™
+.
